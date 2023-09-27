@@ -1,0 +1,5 @@
+a.tfod-dependencies/
+face detection/aug_data
+face detection/data
+nose mask detection/workspace/images
+sign language detection with tfod/Tensorflow/workspace/images
