@@ -3,3 +3,10 @@ face detection/aug_data
 face detection/data
 nose mask detection/workspace/images
 sign language detection with tfod/Tensorflow/workspace/images
+face recognition/data
+face recognition/lfw
+face recognition/application_data
+face recognition/training_checkpoints
+face recognition/lfw.tgz 
+cv-env/
+face recognition/siamesemodel.h5
